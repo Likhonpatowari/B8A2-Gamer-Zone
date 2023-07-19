@@ -446,7 +446,7 @@ text-align: center;
     }
     
 }
-@media screen and (max-width:505px) {
+@media screen and (max-width:576px) {
     .header 
     {
        width: 100%;
